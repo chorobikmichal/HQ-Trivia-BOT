@@ -2,7 +2,7 @@
 
 ## How it works:
 - I mirror my phone's screen on the computer
-- as a question is presented I take a screenshot and scan it for text using Google’s Vision API
+- As a question is presented I take a screenshot and scan it for text using Google’s Vision API
 - Than I search the question on Google using the Google Custom Search Engine API 
 - I scan the 9 results the API returns and give each answer a score based on how many times it occurs in the snippet and its title
 
