@@ -1,4 +1,4 @@
-## The HQ Trivia bot can answer questions correctly with accuracy of around 83%. That's usually 10/12 questions
+## The HQ Trivia BOT can answer questions correctly with accuracy of around 83%. That's usually 10/12 questions
 
 ## How it works:
 - I mirror my phone's screen on the computer
