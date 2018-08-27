@@ -17,7 +17,8 @@ I use the nltk library to parse the answers using natural language processing to
  <img src="https://user-images.githubusercontent.com/24882037/38785142-146bb92a-40ea-11e8-86fe-1615b8693cba.gif">  
   <img src="https://user-images.githubusercontent.com/24882037/38785153-2374fe7c-40ea-11e8-8000-40ca2544a55f.jpg" height="55%" width="35%">
  
- <img src="https://user-images.githubusercontent.com/24882037/38785144-14964b68-40ea-11e8-8c61-d4e3ccfa5cc1.gif">  <img src="https://user-images.githubusercontent.com/24882037/38785157-29bc9e2a-40ea-11e8-9219-493156502810.jpg" height="55%" width="35%">
+ <img src="https://user-images.githubusercontent.com/24882037/38785144-14964b68-40ea-11e8-8c61-d4e3ccfa5cc1.gif">  
+ <img src="https://user-images.githubusercontent.com/24882037/38785152-23613c02-40ea-11e8-87f7-714810afecd6.jpg" height="55%" width="35%"> 
  
  <img src="https://user-images.githubusercontent.com/24882037/38785143-1486a03c-40ea-11e8-9332-1a710a6d95b4.gif"> 
-<img src="https://user-images.githubusercontent.com/24882037/38785152-23613c02-40ea-11e8-87f7-714810afecd6.jpg" height="55%" width="35%"> 
+<img src="https://user-images.githubusercontent.com/24882037/38785157-29bc9e2a-40ea-11e8-9219-493156502810.jpg" height="55%" width="35%">
